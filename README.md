@@ -1,7 +1,5 @@
 * **Student Management System**
 
-
-
 A Java Swing and JDBC project for managing students:
 
 1.Add new students
@@ -11,7 +9,6 @@ A Java Swing and JDBC project for managing students:
 3.Update student details
 
 4.Delete students with confirmation
-
 
 
 **How to run**
